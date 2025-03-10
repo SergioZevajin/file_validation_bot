@@ -4,3 +4,56 @@ test_config.py
 __pycache__/
 bot.log
 no_public/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pytest
+.tox/
+.nox/
+.coverage
+.hypothesis/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# virtualenv
+venv/
+ENV/
+env/
+.env/
+
+# VS Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
