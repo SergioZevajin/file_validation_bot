@@ -1,0 +1,6 @@
+config.py
+test_config.py
+.idea/
+__pycache__/
+bot.log
+no_public/
